@@ -2,7 +2,7 @@
 
 A command-line tool that scans regex patterns for **ReDoS** vulnerabilities combining static structural analysis with a live, timed attack test  and reports the result in a colorful terminal UI.
 
-![2](pics\2.png)
+![2](pics/2.png)
 
 ## What is ReDoS?
 
@@ -63,7 +63,7 @@ This step catches real-world vulnerable patterns that the static heuristics migh
 
 ("Likely" safe, not "safe" — this is heuristic detection, not a formal proof; see Limitations below.)
 
-![2](pics\3.png)
+![2](pics/3.png)
 
 ## Usage
 
