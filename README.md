@@ -65,6 +65,8 @@ This step catches real-world vulnerable patterns that the static heuristics migh
 
 ![2](pics/3.png)
 
+![2](pics/4.png)
+
 ## Usage
 
 ```bash
